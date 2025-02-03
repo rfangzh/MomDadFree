@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@types/jest": "^29.5.4",
-    "@types/node": "^20.5.9",
     "@use-gesture/react": "^10.2.27",
     "@vitejs/plugin-legacy": "^4.1.1",
     "antd": "^5.9.0",
